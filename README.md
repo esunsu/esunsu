@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 ## 사용 언어
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esunsu&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Stats
-[![Codemaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemaster&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![esunsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=esunsu&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **esunsu/esunsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
