@@ -1,12 +1,22 @@
 ## Hi there 👋
 
 ## 📊 GitHub Stats
-
-[![esunsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esunsu&show_icons=true&theme=github_dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td align="center">
+      사용 언어
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esunsu&layout=compact&theme=github_dark&bg_color=00000000" />
+    </td>
+    <td align="center">
+      GitHub Statistics
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=esunsu&show_icons=true&theme=github_dark&bg_color=00000000" />
+    </td>
+  </tr>
+</table>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=esunsu&theme=github-dark&hide_border=true&background=00000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esunsu&layout=compact&theme=github_dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
