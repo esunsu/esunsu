@@ -16,8 +16,6 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=esunsu&theme=github-dark&hide_border=true&background=00000000)](https://git.io/streak-stats)
-
 ---
 
 ## 방문자 수
