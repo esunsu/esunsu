@@ -8,11 +8,6 @@
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esunsu&layout=compact&theme=github_dark&bg_color=00000000" />
     </td>
-    <td align="center">
-      GitHub Statistics
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=esunsu&show_icons=true&theme=github_dark&bg_color=00000000" />
-    </td>
   </tr>
 </table>
 
