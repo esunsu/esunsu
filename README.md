@@ -6,7 +6,7 @@
     <td align="center">
       사용 언어
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esunsu&layout=compact&theme=github_dark&bg_color=00000000" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esunsu&layout=compact&theme=github_dark&bg_color=00000000&card_width=1000" width="1000" />
     </td>
   </tr>
 </table>
